@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "base_track": "チャンカパーナ",
+  "base_artist": "NEWS",
+  "createdAt": "2026-03-23T11:58:40.195000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チャンカパーナ - Chancapana",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/01_チャンカパーナ_-_Chancapana_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チャンカパーナ",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/02_チャンカパーナ_NEWS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チャンカパーナ",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/03_チャンカパーナ_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "チャンカパーナ (Cover ver.)",
+      "artist": "BABY BAND",
+      "has_synced": true,
+      "path": "select/04_チャンカパーナ_(Cover_ver.)_BABY_BAND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "チャンカパーナ  (Strawberry LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/05_チャンカパーナ_(Strawberry_LIVE_Ver.)_NEWS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "チャンカパーナ  (イナズマロック フェス 2024 Ver.)",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/06_チャンカパーナ_(イナズマロック_フェス_2024_Ver.)_NEWS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "チャンカパーナ  (EPCOTIA -ENCORE- LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/07_チャンカパーナ_(EPCOTIA_-ENCORE-_LIVE_Ver.)_NEWS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チャンカパーナ  (音楽 LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/08_チャンカパーナ_(音楽_LIVE_Ver.)_NEWS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "チャンカパーナ - Chankapana",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/09_チャンカパーナ_-_Chankapana_NEWS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チャンカパーナ",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/pl_01_チャンカパーナ_NEWS.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "チャンカパーナ",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/localdb_01_チャンカパーナ_NEWS.lrc",
+      "repo_name": "Ou1UG_PC43Q"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "チャンカパーナ",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/localdb_02_チャンカパーナ_NEWS.lrc",
+      "repo_name": "pTpE984GLPI"
+    }
+  ]
+}
